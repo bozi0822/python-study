@@ -1,2 +1,2 @@
-# NEW
+# python study
 python study
